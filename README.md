@@ -9,18 +9,20 @@ We have used a high-resolution dataset of metastasising and normal cells. We tes
 The source code is on the ph_pipeline/ repository
 The test/ repository includes the run script (.py) and the configuration files (.config) we used to train all our models.
 
-##INSTALLATION OF PYTHON DL CODE
+#INSTAL PYTHON DL CODE
 
 cd unzip_fold_of_code/
 
 pip install .
 
-##Source code description
+#Source code description
+
 In ph_pipeline folder the core code of the library is located.
 The MHL and RGB family models are developed in the create_net.py file
 The XAI/GRADCAM folder has all the explanable code of the publish paper [1].
 
 Please if you use the code cite the above publication:
+
 [1]
 
  
