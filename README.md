@@ -1,4 +1,5 @@
 # MHL-RGB-deep-learing
+
 Multi-head attention channel
 
 Metastases are the main cause of cancer mortality. Metastasis is caused by the defective cell migration of cancer cells and is accompanied by major changes in the spatial organisation of the cytoskeleton in cells, including the actin microfilaments and the vimentin intermediate filaments. Understanding of how these filaments change during the transformation from normal to invasive cells can provide molecular targets and strategies
@@ -9,7 +10,7 @@ We have used a high-resolution dataset of metastasising and normal cells. We tes
 The source code is on the ph_pipeline/ repository
 The test/ repository includes the run script (.py) and the configuration files (.config) we used to train all our models.
 
-# INSTAL PYTHON DL CODE
+# Install python code
 
 cd unzip_fold_of_code/
 
