@@ -23,6 +23,8 @@ The MHL and RGB family models are developed in the create_net.py file
 The XAI/GRADCAM folder has all the explanable code of the publish paper [1].
 
 Please if you use the code cite the above publication:
+[1] https://arxiv.org/abs/2309.00911
+
 
 [1]
 
